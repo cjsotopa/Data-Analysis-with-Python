@@ -8,4 +8,4 @@ In this module, you'll learn about an example around estimating used car prices 
 ### Reference
 - Credly IBM, https://www.credly.com/badges/cd98ba84-0a36-4ac9-bc3c-ed55a692c79f?source=linked_in_profile
 - Cognitive Class, https://courses.cognitiveclass.ai/certificates/812ce5d667114d2a82091842257be1f2
-- Cognitive Class, https://courses.cognitiveclass.ai/
+- Course, https://courses.cognitiveclass.ai/
